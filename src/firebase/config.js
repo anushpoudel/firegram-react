@@ -3,7 +3,7 @@ import "firebase/storage";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  apiKey: "AIzaSyD8OhRBvKhXhwYtNgOeUPJLb_FXdxmXnJo",
   authDomain: "firegram-react-aa8fa.firebaseapp.com",
   projectId: "firegram-react-aa8fa",
   storageBucket: "firegram-react-aa8fa.appspot.com",
